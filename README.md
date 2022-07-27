@@ -1,1 +1,1 @@
-# steaming_process_mining
+# streaming_process_mining
